@@ -1,0 +1,5 @@
+# RectRegion
+# List of RectRegion GeoRegions
+# (1)ID, (2)pID, (3)N, (4)W, (5)S, (6)E, (7)Name
+SQL, GLB, 9.95, 85.05, -9.95, 109.95, SumatraSquall-Project-Region
+SGP, SQL, 2.0, 103.0, 1.0, 104.5, Singapore-Island
